@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7763b711-c14c-48d3-ad4c-1f7c6f07982a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b8IGOL5uvNZqBa9wLFpRz0PYJW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.WriteLoopsTest.TestCheckGameScore">
+    <configuration name="WriteIFsTest.TestFireControl3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlueJ.FirstSaturday" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WriteIFsTest" />
+      <option name="METHOD_NAME" value="TestFireControl3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteLoopsTest.TestCheckGameScore" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlueJ.FirstSaturday" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WriteLoopsTest" />
+      <option name="METHOD_NAME" value="TestCheckGameScore" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteLoopsTest.TestCheckServer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlueJ.FirstSaturday" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WriteLoopsTest" />
+      <option name="METHOD_NAME" value="TestCheckServer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteLoopsTest.TestDriveHome" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlueJ.FirstSaturday" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WriteLoopsTest" />
+      <option name="METHOD_NAME" value="TestDriveHome" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WriteLoopsTest.TestHelloZipCode" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BlueJ.FirstSaturday" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="WriteLoopsTest" />
+      <option name="METHOD_NAME" value="TestHelloZipCode" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WriteLoopsTest.TestCheckGameScore" />
+        <item itemvalue="JUnit.WriteLoopsTest.TestHelloZipCode" />
+        <item itemvalue="JUnit.WriteLoopsTest.TestDriveHome" />
+        <item itemvalue="JUnit.WriteLoopsTest.TestCheckServer" />
+        <item itemvalue="JUnit.WriteIFsTest.TestFireControl3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7763b711-c14c-48d3-ad4c-1f7c6f07982a" name="Default Changelist" comment="" />
+      <created>1588007197223</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588007197223</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1588139651687">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1588139651687" />
+    <state x="438" y="200" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1588013433139">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="438" y="200" width="404" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1280.680@0.0.1280.680" timestamp="1588013433139" />
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1588146267876">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588146267876" />
+    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1588146267876">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588146267876" />
+    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1588146267876">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588146267876" />
+    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1588146267876">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588146267876" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1588131104010">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588131104010" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1588131104010">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1588131104010" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1588131104010">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1588131104010" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1588131104010">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1588131104010" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1588008276309">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588008276309" />
+  </component>
+</project>
